@@ -1816,7 +1816,7 @@ body {
   background-color: #000000;
 }
 .cid-qJQVkIEd4I .mbr-section-subtitle {
-  color: #e4ba5d;
+  color: #d1ab56;
   font-weight: 300;
 }
 .cid-qJQVkIEd4I .number-wrap {
@@ -1864,7 +1864,7 @@ body {
   color: #ffffff;
 }
 .cid-qJQVkIEd4I .countdown-cont {
-  background: linear-gradient(45deg, #000000, #e4ba5d);
+  background: linear-gradient(45deg, #000000, #d1ab56);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
@@ -1918,7 +1918,7 @@ body {
   font-weight: 300;
 }
 .cid-qJQTgrY3GS .mbr-section-subtitle {
-  color: #d8be83;
+  color: #d1ab56;
 }
 .cid-qJQTgrY3GS .progress_value {
   position: relative;
@@ -1942,13 +1942,13 @@ body {
   background: rgba(206, 206, 206, 0.4);
 }
 .cid-qJQTgrY3GS progress::-webkit-progress-value {
-  background: #d8be83;
+  background: #d1ab56;
 }
 .cid-qJQTgrY3GS progress[value]::-moz-progress-bar {
-  background: #d8be83;
+  background: #d1ab56;
 }
 .cid-qJQTgrY3GS progress::-ms-fill {
-  background: #d8be83;
+  background: #d1ab56;
 }
 .cid-qJQTgrY3GS .progress1 .progressbar-number:before {
   content: '70';
@@ -1974,11 +1974,11 @@ body {
   padding-left: 30px;
 }
 .cid-qJQTgrY3GS .mbr-section-title {
-  color: #d8be83;
+  color: #d1ab56;
 }
 .cid-qJQTgrY3GS .progressbar-title p,
 .cid-qJQTgrY3GS .progress_value {
-  color: #d8be83;
+  color: #d1ab56;
 }
 .cid-qJQTgW1mPW {
   padding-top: 90px;
@@ -2019,6 +2019,9 @@ body {
 }
 .cid-qJQTgW1mPW H4 {
   color: #d8be83;
+}
+.cid-qJQTgW1mPW P {
+  color: #d1ab56;
 }
 .cid-qJQThjf1dU {
   padding-top: 90px;
